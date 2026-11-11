@@ -1,0 +1,4 @@
+H101|City Hospital|Dehradun|0000000001|Rajpur Road
+H102|District Hospital|Bhimtal|0000000002|Mall Road
+H103|Community Hospital|Haldwani|0000000003|Main Road
+H104|Care Hospital|Nainital|0000000004|Tallital

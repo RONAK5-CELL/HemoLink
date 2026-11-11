@@ -1,0 +1,15 @@
+build-mingw/
+build*/
+cmake-build-*/
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.exe
+*.obj
+*.o
+*.a
+*.dll
+*.user
+*.user.*
